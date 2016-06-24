@@ -1,0 +1,86 @@
+body
+{
+background-image:url('https://i.ytimg.com/vi/58MtkX3vdLU/maxresdefault.jpg');	
+	background-repeat: no-repeat;
+	background-size: cover;
+color:White
+}
+#m1
+{
+font-size:100px;
+font-family:Chiller;
+text-align:center;
+}
+#m2
+{
+font-size:50px;
+font-family:Times New Roman;
+text-align:Center;
+}
+p
+{
+font-family:Comic Sans MS;
+font-size:17px;
+}
+h2
+{
+color:#ff33ff;
+font-family:Baskerville Old Face;
+font-size:30px;
+}
+span
+{
+color:#3385ff;
+font-size:30px;
+}
+.m3
+{
+color:#ffff4d;
+font-size:22px;
+}
+.m4
+{
+font-size:30px;
+font-family:chiller;
+color:#3385ff;
+}
+.myslides
+{
+height:300px;
+width:300px;
+float:left;
+}
+#m5
+{
+border:2px solid #000099;
+border-radius:5px;
+text-align:center;
+margin-left:640px;
+background-color:#000099;
+height:100px;
+width:90px;
+font-family:cursive;
+padding:5px;
+margin-top:30px;
+}
+#m6
+{
+background-color:#000099;
+color:white;
+font-family:Times new roman;
+height:30px;
+padding:5px;
+font-size:15px;
+margin-top:20px;
+}
+
+a:hover
+{
+color:red;
+text-decoration:none;
+
+}
+
+
+ 
+

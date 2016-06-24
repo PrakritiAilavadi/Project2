@@ -1,0 +1,90 @@
+body
+{
+background-image:url('https://www.colourbox.de/preview/1773259-electric-blitz-auf-blauem-hintergrund.jpg');	
+	background-repeat: no-repeat;
+	background-size: cover;
+
+}
+#r1
+{
+margin-left:400px;
+height:100px;
+width:100px;
+float:left;
+}
+#r2
+{
+height:100px;
+width:100px;
+}
+#r3
+{
+text-align:left;
+font-size:80px;
+color:White;
+font-family:Harrington;
+}
+#r4
+{
+font-family:Times New Roman;
+font-size:50px;
+text-align:center;
+}
+#m5
+{
+border:2px solid #000099;
+border-radius:5px;
+text-align:center;
+margin-left:640px;
+background-color:#000099;
+height:100px;
+width:90px;
+font-family:cursive;
+padding:5px;
+margin-top:30px;
+color:white;
+}
+#m6
+{
+background-color:#000099;
+color:white;
+font-family:Times new roman;
+height:30px;
+padding:5px;
+font-size:15px;
+margin-top:20px;
+}
+a
+{
+color:white;
+}
+a:hover
+{
+color:red;
+text-decoration:none;
+}
+#i5
+{
+height:300px;
+width:400px;
+}
+.mySlides
+{
+height:500px;
+width:400px;
+}
+ul.NoBullet {
+  list-style-type: none;
+color:white;
+}
+p
+{
+color:white;
+font-family:Baskerville Old Face;
+font-size:20px;
+}
+.r6
+{
+padding-top:100px;
+padding-left:20px;
+}
